@@ -14,7 +14,7 @@
         <sys_update_name>sys_security_acl_role_f5f37f800f2203007b9fc3ace1050e1d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-11-16 02:36:43</sys_updated_on>
-        <sys_user_role display_value="x_58872_needit.needit1_user" name="x_58872_needit.needit1_user">e5f3bf000f2203007b9fc3ace1050e22</sys_user_role>
+        <sys_user_role display_value="x_58872_needit.admin" name="x_58872_needit.admin">e5f3bf000f2203007b9fc3ace1050e22</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
 </record_update>

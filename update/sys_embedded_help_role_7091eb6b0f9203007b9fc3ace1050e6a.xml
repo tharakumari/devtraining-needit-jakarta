@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>1000</order>
-        <role display_value="x_58872_needit.needit_user" name="x_58872_needit.needit_user">f891eb6b0f9203007b9fc3ace1050e67</role>
+        <role display_value="x_58872_needit.needit1_user" name="x_58872_needit.needit1_user">f891eb6b0f9203007b9fc3ace1050e67</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-11-14 11:59:25</sys_created_on>
